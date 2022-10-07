@@ -29,7 +29,7 @@
  - [ ] I have tested my changes in-game.
    - [ ] In Retail WoW.
    - [ ] In Classic WoW.
-   - [ ] In Burning Crusade Classic WoW.
+   - [ ] In Wrath of the Lich King (Wrath/WotLK) Classic WoW.
  <!-- - [ ] I have read the [**CONTRIBUTING**][contrib] document. -->
  <!-- - [ ] I have added tests to cover my changes. -->
  <!-- - [ ] All new and existing tests passed. -->
